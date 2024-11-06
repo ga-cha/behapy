@@ -59,3 +59,5 @@ This project would not exist without the energetic contributions from folks in t
 * [Joanne Gladding](https://github.com/jmgladding)
 * [Lydia Barnes](https://github.com/lydiabarnes01)
 * J Bertran-Gonzalez
+* [Priscila Levi](https://github.com/levipriscila)
+* [Gabriella Chan](https://github.com/ga-cha)
